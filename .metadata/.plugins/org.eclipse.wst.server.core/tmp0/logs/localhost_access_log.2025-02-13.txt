@@ -1,0 +1,13 @@
+127.0.0.1 - - [13/Feb/2025:14:06:02 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:06:03 +0530] "GET /Login_Page/login.jsp HTTP/1.1" 200 931
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:06:03 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:06:14 +0530] "POST /Login_Page/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:06:14 +0530] "GET /Login_Page/welcome.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:06:17 +0530] "GET /Login_Page/contact.jsp HTTP/1.1" 200 2050
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:07:14 +0530] "GET /Login_Page/submit.jsp? HTTP/1.1" 200 256
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:01 +0530] "GET /Login_Page/contact.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:01 +0530] "GET /Login_Page/login.jsp HTTP/1.1" 200 931
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:01 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:13 +0530] "POST /Login_Page/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:13 +0530] "GET /Login_Page/welcome.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [13/Feb/2025:14:08:15 +0530] "GET /Login_Page/contact.jsp HTTP/1.1" 200 2050
