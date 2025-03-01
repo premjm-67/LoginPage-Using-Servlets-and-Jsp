@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:24:24 +0530] "POST /Login_Page/Login HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:24:24 +0530] "GET /Login_Page/welcome.jsp HTTP/1.1" 200 413
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:24:27 +0530] "GET /Login_Page/contact.jsp HTTP/1.1" 200 2050
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:25:05 +0530] "POST /Login_Page/Login HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:25:05 +0530] "GET /Login_Page/welcome.jsp HTTP/1.1" 200 413
-0:0:0:0:0:0:0:1 - - [14/Feb/2025:13:25:07 +0530] "GET /Login_Page/contact.jsp HTTP/1.1" 200 2050
